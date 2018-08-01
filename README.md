@@ -1,4 +1,3 @@
-#Frontend Crossbeam  Engineer Challenge
 
 ## Instructions
 
